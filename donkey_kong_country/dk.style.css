@@ -2,8 +2,25 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    width: 60px;
+    width: 200px;
+    background-color: #08d620;
 }
-ul a {
+  
+li a {
     display: block;
+    color: #000000;
+    padding: 8px 16px;
+    text-decoration: none;
 }
+  
+/* Change the link color on hover */
+li a:hover {
+    background-color: #04AA6D;
+    color: #000000;
+}
+
+.active {
+    background-color: #ffff12;
+    color: #08d620;
+}
+04AA6D
