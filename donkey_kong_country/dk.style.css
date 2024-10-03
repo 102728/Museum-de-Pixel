@@ -1,3 +1,12 @@
+@font-face {
+    font-family: font;
+    src: url(./Jumpman.ttf);
+}
+
+html {
+    background-color: #009e12;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -23,4 +32,25 @@ li a:hover {
     background-color: #ffff12;
     color: #08d620;
 }
-04AA6D
+
+.dktitle {
+    position: absolute;
+    left: 350px;
+    top: 100px;
+    font-family: font;
+    color: red;
+    font-size: 75px;
+    text-shadow: 3.5px 0 #ffff12, -3.5px 0 #ffff12, 0 3.5px #ffff12, 0 -3.5px #ffff12,
+               3.5px 3.5px #ffff12, -3.5px -3.5px #ffff12, 3.5px -3.5px #ffff12, -3.5px 3.5px #ffff12;
+}
+
+.countrytitle {
+    position: absolute;
+    left: 400px;
+    top: 150px;
+    font-family: font;
+    color: rgb(2, 182, 205);
+    font-size: 85px;
+    text-shadow: 3.5px 0 #ffde04, -3.5px 0 #ffde04, 0 3.5px #ffde04, 0 -3.5px #ffde04,
+               3.5px 3.5px #ffde04, -3.5px -3.5px #ffde04, 3.5px -3.5px #ffde04, -3.5px 3.5px #ffde04;
+}
