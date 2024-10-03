@@ -1,13 +1,38 @@
-.dkimg{
-    position: absolute;
-    top: 350px;
+
+html {
+    width: 4096px;
+    height: 2304px;
+    overflow: hidden;
 }
-.doomimg{
-    position: absolute;
-    top: 281.5px;
-    right: 1px;
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 4096px;
+    height: 2304px;
+    overflow: hidden;
+    background-color: #000000;
 }
-.sonicimg{
+
+img, a {
+    width: 1366px;
+    height: 2304px;
+}
+
+#donkey {
     position: absolute;
-    top: 295px;
+    top: 0;
+    left: 0;
+}
+
+#doom {
+    position: absolute;
+    top: 0;
+    left: 1366px;
+}
+
+#sonic {
+    position: absolute;
+    top: 0;
+    left: 2732px;
 }
