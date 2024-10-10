@@ -90,7 +90,7 @@ li a:hover {
 #gameplaydescription{
     position: absolute;
     left: 850px;
-    top: 400px;
+    top: 430px;
     font-size: 35px;
     font-family: font;
     text-shadow: 2.5px 0 #000000, -2.5px 0 #000000, 0 2.5px #000000, 0 -2.5px #000000, 2.5px 2.5px #000000, -2.5px -2.5px #000000, 2.5px -2.5px #000000, -2.5px 2.5px #000000;
