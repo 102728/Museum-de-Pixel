@@ -36,7 +36,7 @@ li a:hover {
 .dktitle {
     position: absolute;
     left: 350px;
-    top: 50px;
+    top: 25px;
     font-family: font;
     color: red;
     font-size: 75px;
@@ -47,10 +47,24 @@ li a:hover {
 .countrytitle {
     position: absolute;
     left: 400px;
-    top: 100px;
+    top: 75px;
     font-family: font;
     color: rgb(2, 182, 205);
     font-size: 85px;
     text-shadow: 3.5px 0 #ffde04, -3.5px 0 #ffde04, 0 3.5px #ffde04, 0 -3.5px #ffde04,
                3.5px 3.5px #ffde04, -3.5px -3.5px #ffde04, 3.5px -3.5px #ffde04, -3.5px 3.5px #ffde04;
+}
+
+.swing{
+    position: absolute;
+    width: 260px;
+    right: 25px;
+    top: 0px;
+}
+
+.dklvl1{
+    position: absolute;
+    width: 2048px;
+    bottom: 0;
+    left: 0;
 }
