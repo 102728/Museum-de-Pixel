@@ -5,6 +5,11 @@
 
 html {
     background-color: #009e12;
+
+    background: rgb(0,158,18);
+    background: linear-gradient(0deg, rgba(0,158,18,1) 75%, rgba(0,255,2,0.9) 85%);
+    width: 2048px;
+    height: 1152px;
 }
 
 ul {
