@@ -13,6 +13,12 @@ html {
     word-wrap: break-word;
 }
 
+#title {
+    position: absolute;
+    left: 300px;
+    top: 110px;
+}
+
 #screen {
     width: 2048px;
     height: 1152px;
@@ -62,6 +68,7 @@ li a:hover {
     position: absolute;
     width: 600px;
     bottom: 0;
+    left: 24px;
 }
 
 h2 {
