@@ -6,7 +6,7 @@
 html {
     background: rgb(0,0,0);
     background: linear-gradient(142deg, rgba(0,0,0,1) 10%, rgba(255,0,0,1) 90%); 
-    color: #ffffff;
+    color: #999393;
     font-family: doom;
     letter-spacing: 0.07rem;
     font-size: 32px;
@@ -17,6 +17,19 @@ html {
     position: absolute;
     left: 300px;
     top: 110px;
+}
+
+#scream {
+    position: absolute;
+    right: 32px;
+    top: 32px;
+}
+
+#about {
+    position: absolute;
+    width: 600px;
+    top: 280px;
+    left: 24px;
 }
 
 #screen {
@@ -62,13 +75,6 @@ li a:hover {
 
 .active, li, a {
     transition: background-color 400ms ease, color 400ms ease;
-}
-
-.about {
-    position: absolute;
-    width: 600px;
-    bottom: 0;
-    left: 24px;
 }
 
 h2 {
