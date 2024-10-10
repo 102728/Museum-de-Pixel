@@ -25,17 +25,20 @@ li a {
     color: #000000;
     padding: 8px 16px;
     text-decoration: none;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
   
 /* Change the link color on hover */
 li a:hover {
     background-color: #04AA6D;
-    color: #000000;
+    color: #ffffff;
 }
 
 .active {
     background-color: #ffff12;
-    color: #08d620;
+    color: #ffffff;
 }
 
 .dktitle {
