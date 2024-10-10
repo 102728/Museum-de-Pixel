@@ -32,11 +32,11 @@ a {
 }
 
 img {
-    width: 30vw;
+    width: 26vw;
     height: auto;
     transition: all 1s ease;
 }
 
 img:hover {
-    width: 40vw;
+    width: 36vw;
 }
