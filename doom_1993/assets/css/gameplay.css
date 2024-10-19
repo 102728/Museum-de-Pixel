@@ -1,0 +1,124 @@
+@font-face {
+    font-family: doom;
+    src: url(../font/Amazdoomleft-epw3.ttf);
+}
+
+html {
+    background: rgb(0,0,0);
+    background: linear-gradient(142deg, rgba(0,0,0,1) 10%, rgba(255,0,0,1) 90%); 
+    color: #999393;
+    font-family: doom;
+    letter-spacing: 0.07rem;
+    font-size: 32px;
+    word-wrap: break-word;
+}
+
+div {
+    font-size: 1.2rem;
+}
+
+iframe {
+    border-radius: 32px;
+}
+
+#title {
+    position: absolute;
+    left: 200px;
+    top: 30px;
+}
+
+#screen {
+    width: 2048px;
+    height: 1152px;
+}
+
+ul {
+    font-size: 24px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #940000;
+}
+
+li {
+    border: 2px solid #000000;
+    border-bottom: none;
+}
+
+li #last {
+    border-bottom: 2px solid #000000;
+}
+
+li a {
+    display: block;
+    color: #000000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #2c2c2c;
+    color: #ffffff;
+}
+
+.active {
+    background-color: #707070;
+    color: #ffffff;
+}
+
+.active, li, a {
+    transition: background-color 400ms ease, color 400ms ease;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+#video_gameplay {
+    position: absolute;
+    left: 8px;
+    bottom: 316px;
+    width: 1000px;
+    height: 560px;
+}
+
+#gp_img_1, #gp_img_2, #gp_img_3, #gp_img_4 {
+    border-radius: 8px;
+    position: absolute;
+    bottom: 8px;
+    height: 300px;
+}
+
+#gp_img_1 {
+    left: 8px;
+}
+
+#gp_img_2 {
+    left: 498px;
+}
+
+#gp_img_3 {
+    left: 988px;
+}
+
+#gp_img_4 {
+    left: 1478px;
+}
+
+#about_pics_bottom {
+    color: #cebfbf;
+    position: absolute;
+    left: 1050px;
+    bottom: 316px;
+    width: 900px;
+}
+
+
+#about_gameplay {
+    color: #cebfbf;
+    position: absolute;
+    left: 1050px;
+    bottom: 446px;
+    width: 900px;
+}

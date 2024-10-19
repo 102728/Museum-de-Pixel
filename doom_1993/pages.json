@@ -1,0 +1,26 @@
+{
+    "home": {
+        "title": "Home",
+        "url": "/",
+        "template": "home",
+        "done": false
+    },
+    "gameplay": {
+        "title": "gameplay",
+        "url": "/gameplay",
+        "template": "gameplay",
+        "done": true
+    },
+    "characters": {
+        "title": "characters",
+        "url": "/characters",
+        "template": "characters",
+        "done": false
+    },
+    "history": {
+        "title": "history",
+        "url": "/history",
+        "template": "history",
+        "done": false
+    }
+}
