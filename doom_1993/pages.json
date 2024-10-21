@@ -3,7 +3,7 @@
         "title": "Home",
         "url": "/",
         "template": "home",
-        "done": false
+        "done": true
     },
     "gameplay": {
         "title": "gameplay",
@@ -21,6 +21,6 @@
         "title": "history",
         "url": "/history",
         "template": "history",
-        "done": false
+        "done": true
     }
 }

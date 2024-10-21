@@ -1,0 +1,120 @@
+@font-face {
+    font-family: doom;
+    src: url(../font/Amazdoomleft-epw3.ttf);
+}
+
+html {
+    background: rgb(0,0,0);
+    background: linear-gradient(142deg, rgba(0,0,0,1) 10%, rgba(255,0,0,1) 90%); 
+    color: #ffffff;
+    font-family: doom;
+    letter-spacing: 0.07rem;
+    font-size: 32px;
+    word-wrap: break-word;
+}
+
+#title {
+    position: absolute;
+    left: 200px;
+    top: 30px;
+}
+
+#screen {
+    width: 2048px;
+    height: 1152px;
+}
+
+ul {
+    font-size: 24px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #940000;
+}
+
+li {
+    border: 2px solid #000000;
+}
+
+li a {
+    display: block;
+    color: #000000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #2c2c2c;
+    color: #ffffff;
+}
+
+.active {
+    background-color: #707070;
+    color: #ffffff;
+}
+
+.active, li, a {
+    transition: background-color 400ms ease, color 400ms ease;
+}
+
+h2 {
+    font-size: 48px;
+}
+
+#doom_guy {
+    color: #ffffff;
+    position: absolute;
+    left: 24px;
+    top: 300px;
+    width: 400px;
+}
+
+#doom_guy_title {
+    position: absolute;
+    left: 24px;
+    top: 525px;
+}
+
+#doom_guy_text {
+    position: absolute;
+    left: 24px;
+    top: 600px;
+    width: 800px;
+}
+
+#zombieman {
+    color: #ffffff;
+    position: absolute;
+    left: 24px;
+    top: 820px;
+    height: 300px;
+}
+
+#zombieman_title {
+    position: absolute;
+    left: 275px;
+    top: 825px;
+}
+
+#zombieman_text {
+    position: absolute;
+    left: 275px;
+    top: 900px;
+    width: 600px;
+}
+
+#shotgun_guy {
+    color: #ffffff;
+    position: absolute;
+    left: 900px;
+    top: 24px;
+    height: 300px;
+}
+
+#shotgun_guy_title {
+    position: absolute;
+    left: 1150px;
+    top: 24px;
+}
+
