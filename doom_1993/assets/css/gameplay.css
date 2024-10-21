@@ -6,7 +6,7 @@
 html {
     background: rgb(0,0,0);
     background: linear-gradient(142deg, rgba(0,0,0,1) 10%, rgba(255,0,0,1) 90%); 
-    color: #999393;
+    color: #ffffff;
     font-family: doom;
     letter-spacing: 0.07rem;
     font-size: 32px;
@@ -107,7 +107,7 @@ h2 {
 }
 
 #about_pics_bottom {
-    color: #cebfbf;
+    color: #ffffff;
     position: absolute;
     left: 1050px;
     bottom: 316px;
@@ -116,7 +116,7 @@ h2 {
 
 
 #about_gameplay {
-    color: #cebfbf;
+    color: #ffffff;
     position: absolute;
     left: 1050px;
     bottom: 446px;

@@ -118,3 +118,51 @@ h2 {
     top: 24px;
 }
 
+#shotgun_guy_text {
+    position: absolute;
+    left: 1150px;
+    top: 100px;
+    width: 800px;
+}
+
+#demon {
+    color: #ffffff;
+    position: absolute;
+    left: 875px;
+    top: 375px;
+    width: 260px;
+}
+
+#demon_title {
+    position: absolute;
+    left: 1150px;
+    top: 320px;
+}
+
+#demon_text {
+    position: absolute;
+    left: 1150px;
+    top: 400px;
+    width: 800px;
+}
+
+#cacodemon {
+    color: #ffffff;
+    position: absolute;
+    left: 875px;
+    top: 700px;
+    width: 400px;
+}
+
+#cacodemon_title {
+    position: absolute;
+    left: 1300px;
+    top: 725px;
+}
+
+#cacodemon_text {
+    position: absolute;
+    left: 1300px;
+    top: 800px;
+    width: 600px;
+}

@@ -11,11 +11,11 @@
         "template": "gameplay",
         "done": true
     },
-    "characters": {
-        "title": "characters",
-        "url": "/characters",
-        "template": "characters",
-        "done": false
+    "monsters": {
+        "title": "monsters",
+        "url": "/monsters",
+        "template": "monsters",
+        "done": true
     },
     "history": {
         "title": "history",
