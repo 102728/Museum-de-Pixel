@@ -122,11 +122,17 @@ li a:hover {
     position: absolute; 
     top: 500px;
     left: 800px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
 #dkdescription{
     position: absolute;
     top: 530px;
     left: 800px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
 
 #diddykong{
@@ -138,12 +144,19 @@ li a:hover {
     position: absolute;
     top: 710px;
     left: 100px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
 #diddydescription{
     position: absolute;
     top: 740px;
     left: 100px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
+
 #crankykong{
     position: absolute;
     top: 800px;
@@ -153,11 +166,17 @@ li a:hover {
     position: absolute;
     top: 975px;
     left: 100px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
 #crankydescription{
     position: absolute;
     top: 1005px;
     left: 100px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
 
 #funkykong{
@@ -168,11 +187,17 @@ li a:hover {
     position: absolute;
     top: 390px;
     left: 100px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
 #funkydescription{
     position: absolute;
     top: 420px;
     left: 100px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
 
 #kingkrool{
@@ -184,11 +209,17 @@ li a:hover {
     position: absolute;
     left: 800px;
     top: 970px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
 #kingdescription{
     position: absolute;
     left: 800px;
     top: 1000px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
 
 #kremling{
@@ -199,41 +230,59 @@ li a:hover {
     position: absolute;
     left: 1500px;
     top: 330px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
 #kremlingdescription{
     position: absolute;
     left: 1500px;
     top: 360px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
 
 #zinger{
     position: absolute;
-    left: 1500px;
+    left: 1450px;
     top: 450px;
 }
 #zingerdescriptiont{
     position: absolute;
-    left: 1500px;
+    left: 1450px;
     top: 610px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
 #zingerdescription{
     position: absolute;
-    left: 1500px;
+    left: 1450px;
     top: 640px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
 
 #chomps{
     position: absolute;
-    left: 1500px;
+    left: 1400px;
     top: 720px
 }
 #chompsdescriptiont{
     position: absolute;
-    left: 1500px;
+    left: 1400px;
     top: 880px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
 #chompsdescription{
     position: absolute;
-    left: 1500px;
+    left: 1400px;
     top: 910px;
+    font-family: font;
+    text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
+    color: white;
 }
