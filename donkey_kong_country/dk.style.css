@@ -114,3 +114,126 @@ li a:hover {
     text-shadow: 2.5px 0 #000000, -2.5px 0 #000000, 0 2.5px #000000, 0 -2.5px #000000, 2.5px 2.5px #000000, -2.5px -2.5px #000000, 2.5px -2.5px #000000, -2.5px 2.5px #000000;
     color: white;
 }
+#donkeykong{
+    position: absolute;
+    left: 800px;
+}
+#dkdescriptiont{
+    position: absolute; 
+    top: 500px;
+    left: 800px;
+}
+#dkdescription{
+    position: absolute;
+    top: 530px;
+    left: 800px;
+}
+
+#diddykong{
+    position: absolute;
+    top: 480px;
+    left: 100px;
+}
+#diddydescriptiont{
+    position: absolute;
+    top: 710px;
+    left: 100px;
+}
+#diddydescription{
+    position: absolute;
+    top: 740px;
+    left: 100px;
+}
+#crankykong{
+    position: absolute;
+    top: 800px;
+    left: 100px;
+}
+#crankydescriptiont{
+    position: absolute;
+    top: 975px;
+    left: 100px;
+}
+#crankydescription{
+    position: absolute;
+    top: 1005px;
+    left: 100px;
+}
+
+#funkykong{
+    position: absolute;
+    left: 100px;
+}
+#funkydescriptiont{
+    position: absolute;
+    top: 390px;
+    left: 100px;
+}
+#funkydescription{
+    position: absolute;
+    top: 420px;
+    left: 100px;
+}
+
+#kingkrool{
+    position: absolute;
+    left: 800px;
+    top: 620px;
+}
+#kingdescriptiont{
+    position: absolute;
+    left: 800px;
+    top: 970px;
+}
+#kingdescription{
+    position: absolute;
+    left: 800px;
+    top: 1000px;
+}
+
+#kremling{
+    position: absolute;
+    left: 1500px;
+}
+#kremlingdescriptiont{
+    position: absolute;
+    left: 1500px;
+    top: 330px;
+}
+#kremlingdescription{
+    position: absolute;
+    left: 1500px;
+    top: 360px;
+}
+
+#zinger{
+    position: absolute;
+    left: 1500px;
+    top: 450px;
+}
+#zingerdescriptiont{
+    position: absolute;
+    left: 1500px;
+    top: 610px;
+}
+#zingerdescription{
+    position: absolute;
+    left: 1500px;
+    top: 640px;
+}
+
+#chomps{
+    position: absolute;
+    left: 1500px;
+    top: 720px
+}
+#chompsdescriptiont{
+    position: absolute;
+    left: 1500px;
+    top: 880px;
+}
+#chompsdescription{
+    position: absolute;
+    left: 1500px;
+    top: 910px;
+}
