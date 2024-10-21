@@ -286,3 +286,34 @@ li a:hover {
     text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
     color: white;
 }
+
+
+#hometekst1{
+    position: absolute;
+    left: 200px;
+    top: 350px;
+    font-size: 35px;
+    font-family: font;
+    text-shadow: 2.5px 0 #000000, -2.5px 0 #000000, 0 2.5px #000000, 0 -2.5px #000000, 2.5px 2.5px #000000, -2.5px -2.5px #000000, 2.5px -2.5px #000000, -2.5px 2.5px #000000;
+    color: white;
+}
+#hometekst2{
+    position: absolute;
+    left: 800px;
+    top: 750px;
+    font-size: 35px;
+    font-family: font;
+    text-shadow: 2.5px 0 #000000, -2.5px 0 #000000, 0 2.5px #000000, 0 -2.5px #000000, 2.5px 2.5px #000000, -2.5px -2.5px #000000, 2.5px -2.5px #000000, -2.5px 2.5px #000000;
+    color: white;
+}
+
+#homeimg1{
+    position: absolute;
+    left: 100px;
+    top: 750px;
+}
+#homeimg2{
+    position: absolute;
+    left: 1000px;
+    top: 300px;
+}
