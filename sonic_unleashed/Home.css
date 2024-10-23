@@ -1,0 +1,66 @@
+* {
+padding: 0;
+margin: 0;
+font-family: SonicFont;
+}
+  
+ul {
+list-style: none;
+padding: 0;
+margin: 0;
+position: absolute;
+top: 9px; 
+left: 9px; 
+width: 200px; 
+}
+  
+ul li {
+display: block; 
+}
+  
+ul li a {
+display: block;
+padding: 7px 7px;
+color: #fff200;
+-webkit-text-stroke: 1px;
+-webkit-text-stroke-color: #220b95;
+text-decoration: none;
+text-align: center;
+font-size: 25px;
+background-color: rgb(23, 9, 67); 
+border-bottom: 1px solid #0c1358; 
+opacity: 0.8;
+transition: 0.3s;
+}
+  
+ul li a:hover {
+background-color: #672ec3; 
+box-shadow: 0 0 15px #fff200, 0 0 25px #fff200, 0 0 35px #fff200, 0 0 45px #fff200;
+transition: 0.3s; 
+}
+  
+@font-face{
+font-family: SonicFont;
+src: url(Sonic\ Advanced\ 2.ttf);
+}
+
+.SonicLogo{
+
+margin-left: 280px;
+margin-bottom: 300px;
+}
+
+html, body{
+height: 100%;
+margin: 0;
+overflow: hidden;
+}
+
+body {
+background-image: url(SonicUnleashedBackground.png);
+background-repeat: no-repeat;
+background-size: cover;
+margin: 0;
+}
+
+
