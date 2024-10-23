@@ -319,29 +319,45 @@ li a:hover {
 }
 
 #story{
-    position: absolute;
-    left: 75px;
-    top: 250px;
-    font-size: 20px;
+    position: relative;
+    top: 70px;
+    width: 1400px;
+    font-size: 26px;
     font-family: font;
     text-shadow: 2.5px 0 #000000, -2.5px 0 #000000, 0 2.5px #000000, 0 -2.5px #000000, 2.5px 2.5px #000000, -2.5px -2.5px #000000, 2.5px -2.5px #000000, -2.5px 2.5px #000000;
     color: white;
 }
 #story2{
-    position: absolute;
-    left: 75px;
-    top: 500px;
-    font-size: 20px;
+    position: relative;
+    top: 130px;
+    width: 1900px;
+    font-size: 26px;
     font-family: font;
     text-shadow: 2.5px 0 #000000, -2.5px 0 #000000, 0 2.5px #000000, 0 -2.5px #000000, 2.5px 2.5px #000000, -2.5px -2.5px #000000, 2.5px -2.5px #000000, -2.5px 2.5px #000000;
     color: white;
 }
 #story3{
-    position: absolute;
-    left: 75px;
-    top: 750px;
-    font-size: 20px;
+    position: relative;
+    top: 200px;
+    width: 500px;
+    font-size: 26px;
     font-family: font;
     text-shadow: 2.5px 0 #000000, -2.5px 0 #000000, 0 2.5px #000000, 0 -2.5px #000000, 2.5px 2.5px #000000, -2.5px -2.5px #000000, 2.5px -2.5px #000000, -2.5px 2.5px #000000;
     color: white;
+}
+
+#emptyhoard{
+    position: absolute;
+    top: 150px;
+    left: 1500px;
+}
+#bossfight{
+    position: absolute;
+    left: 600px;
+    top: 800px;
+}
+#dkvskr{
+    position: absolute;
+    left: 1200px;
+    top: 800px;
 }
