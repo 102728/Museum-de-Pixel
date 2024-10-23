@@ -317,3 +317,31 @@ li a:hover {
     left: 1000px;
     top: 300px;
 }
+
+#story{
+    position: absolute;
+    left: 75px;
+    top: 250px;
+    font-size: 20px;
+    font-family: font;
+    text-shadow: 2.5px 0 #000000, -2.5px 0 #000000, 0 2.5px #000000, 0 -2.5px #000000, 2.5px 2.5px #000000, -2.5px -2.5px #000000, 2.5px -2.5px #000000, -2.5px 2.5px #000000;
+    color: white;
+}
+#story2{
+    position: absolute;
+    left: 75px;
+    top: 500px;
+    font-size: 20px;
+    font-family: font;
+    text-shadow: 2.5px 0 #000000, -2.5px 0 #000000, 0 2.5px #000000, 0 -2.5px #000000, 2.5px 2.5px #000000, -2.5px -2.5px #000000, 2.5px -2.5px #000000, -2.5px 2.5px #000000;
+    color: white;
+}
+#story3{
+    position: absolute;
+    left: 75px;
+    top: 750px;
+    font-size: 20px;
+    font-family: font;
+    text-shadow: 2.5px 0 #000000, -2.5px 0 #000000, 0 2.5px #000000, 0 -2.5px #000000, 2.5px 2.5px #000000, -2.5px -2.5px #000000, 2.5px -2.5px #000000, -2.5px 2.5px #000000;
+    color: white;
+}
