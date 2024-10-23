@@ -137,12 +137,12 @@ li a:hover {
 
 #diddykong{
     position: absolute;
-    top: 480px;
+    top: 500px;
     left: 100px;
 }
 #diddydescriptiont{
     position: absolute;
-    top: 710px;
+    top: 730px;
     left: 100px;
     font-family: font;
     text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
@@ -150,7 +150,7 @@ li a:hover {
 }
 #diddydescription{
     position: absolute;
-    top: 740px;
+    top: 760px;
     left: 100px;
     font-family: font;
     text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
@@ -159,12 +159,12 @@ li a:hover {
 
 #crankykong{
     position: absolute;
-    top: 800px;
+    top: 820px;
     left: 100px;
 }
 #crankydescriptiont{
     position: absolute;
-    top: 975px;
+    top: 995px;
     left: 100px;
     font-family: font;
     text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
@@ -172,7 +172,7 @@ li a:hover {
 }
 #crankydescription{
     position: absolute;
-    top: 1005px;
+    top: 1025px;
     left: 100px;
     font-family: font;
     text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
@@ -182,10 +182,11 @@ li a:hover {
 #funkykong{
     position: absolute;
     left: 100px;
+    top: 200px;
 }
 #funkydescriptiont{
     position: absolute;
-    top: 390px;
+    top: 410px;
     left: 100px;
     font-family: font;
     text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
@@ -193,7 +194,7 @@ li a:hover {
 }
 #funkydescription{
     position: absolute;
-    top: 420px;
+    top: 440px;
     left: 100px;
     font-family: font;
     text-shadow: 1px 0 #000000, -1px 0 #000000, 0 1px #000000, 0 -1px #000000, 1px 1px #000000, -1px -1px #000000, 1px -1px #000000, -1px 1px #000000;
